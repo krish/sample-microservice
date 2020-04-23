@@ -12,7 +12,7 @@ public class ApplicationController {
 
         Response response = new Response();
         response.setCode("SAMPLE_CODE");
-        response.setMessage("welcome to microservices with ANSIBLE and  springboot 2.0");
+        response.setMessage("THIS IS TO CHECK AUTOMATE BUILD welcome to microservices with ANSIBLE and  springboot 2.0");
         return response;
 
     }
